@@ -1,1 +1,7 @@
 theme: jekyll-theme-hacker
+
+title: eslintcc
+description: ESLint - JavaScript Complexity of Code
+
+github:
+  repository_url: https://github.com/eslintcc/eslintcc
