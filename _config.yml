@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 
 title: eslintcc
-description: ESLint - JavaScript Complexity of Code
+description: ESLintCC is a ECMAScript/JavaScript/TypeScript tool that computes complexity of code by using ESLint
 
 github:
   repository_url: https://github.com/eslintcc/eslintcc

@@ -1,4 +1,6 @@
-# ESLint Complexity of Code [![npm][npm_img]][npm_url] [![Build Status][build_img]][build_url] [![Coverage Status][coverage_img]][coverage_url]
+# ESLint Complexity of Code
+
+[![npm][npm_img]][npm_url] [![Build Status][build_img]][build_url] [![Coverage Status][coverage_img]][coverage_url]
 
 [ESLintCC][npm_url] is a ECMAScript/JavaScript tool
   that computes complexity of code by using [ESLint][eslint_npm]
